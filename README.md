@@ -42,4 +42,4 @@ A real-world case study of the **Anthem data breach** is used to demonstrate how
 - OCR guidance on HIPAA enforcement
 - Healthcare breach case studies
 
- Please take a look at the HIPAA Security Analysis pdf for the full report, references, and detailed analysis.
+ Please take a look at the HIPAA Security Analysis document for the full report, references, and detailed analysis.
